@@ -1,44 +1,5 @@
 {
   "companies": [
-    {
-      "id": 1,
-      "name": "Фасоль",
-      "address": "Ул. Винокурова, 2",
-      "votesNumber": 125
-    },
-    {
-      "id": 2,
-      "name": "Пятерочка",
-      "address": "Ул. Винокурова, 25",
-      "votesNumber": 125
-    },
-
-    {
-      "id": 3,
-      "name": "Магнит",
-      "address": "Ул. Прикольная, 12",
-      "votesNumber": 125
-    },
-
-    {
-      "id": 4,
-      "name": "Фасоль",
-      "address": "Ул. Восяновая, 3",
-      "votesNumber": 125
-    },
-
-    {
-      "id": 5,
-      "name": "Пятерочка",
-      "address": "Ул. Олегская, 41",
-      "votesNumber": 125
-    },
-
-    {
-      "id": 6,
-      "name": "Фасоль",
-      "address": "Ул. Кеке, 11",
-      "votesNumber": 125
-    }
+    
   ]
 }
