@@ -1,5 +1,182 @@
 {
   "companies": [
     
+  ],
+  "votes": [
+   {
+     "id": 1,
+     "companyId": 1,
+     "votesNumbers": [
+      {
+        "categoryId": 3,
+        "itemId": 1,
+        "votesNumber": 300
+      }
+     ]
+  }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Мясо",
+      "imgsrc": "meat.png",
+      "items": [
+        {
+          "name": "Свинина",
+          "imgsrc": "https://klike.net/uploads/posts/2023-03/1678866713_3-110.jpg"
+        },
+        {
+          "name": "Курица",
+          "imgsrc": "https://talantikam.ru/800/600/http/1twenty-80.com/wp-content/uploads/2020/10/shutterstock_1010586004.jpg"
+        },
+        {
+          "name": "Говядина",
+          "imgsrc": "https://recordregion.ru/wp-content/uploads/c/8/5/c853e48651bce5578a7a5fab71701b55.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Молоко, сыр, яйца",
+      "imgsrc": "milky.png",
+      "items": [
+        {
+          "name": "Молоко ультрапастеризованное ДОМИК В ДЕРЕВНЕ 2,5%, без змж, 950г, Россия, 950 г",
+          "imgsrc": "https://dag-produkt.ru/images/photos/big/shop1014.jpg"
+        },
+        {
+          "name": "Молоко ультрапастеризованное ДОМИК В ДЕРЕВНЕ 2,5%, без змж, 950г, Россия, 950 г",
+          "imgsrc": "https://dag-produkt.ru/images/photos/big/shop1014.jpg"
+        },
+        {
+          "name": "Молоко ультрапастеризованное ДОМИК В ДЕРЕВНЕ 2,5%, без змж, 950г, Россия, 950 г",
+          "imgsrc": "https://dag-produkt.ru/images/photos/big/shop1014.jpg"
+        },
+        {
+          "name": "Молоко ультрапастеризованное ДОМИК В ДЕРЕВНЕ 2,5%, без змж, 950г, Россия, 950 г",
+          "imgsrc": "https://dag-produkt.ru/images/photos/big/shop1014.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Хлеб и выпечка",
+      "imgsrc": "bread.png",
+      "items": [
+        {
+          "name": "Сосиска в тесте",
+          "imgsrc": "https://main-cdn.sbermegamarket.ru/hlr-system/111/380/676/011/291/112/100029816760b0.png"
+        },
+        {
+          "name": "Буханка хлеба",
+          "imgsrc": "http://gr0314.shablonik.ru/upload/iblock/5e1/5e1f885455084ea4f288c35ddfc97266_preview.jpg"
+        },
+        {
+          "name": "Батон",
+          "imgsrc": "https://main-cdn.sbermegamarket.ru/hlr-system/-16/218/422/213/151/18/100030684627b0.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Рыба",
+      "imgsrc": "fish.png",
+      "items": [
+        {
+          "name": "Селедочка аппетитная",
+          "imgsrc": "https://www.okeydostavka.ru/wcsstore/OKMarketCAS/cat_entries/855999/855999_fullimage.jpg"
+        },
+        {
+          "name": "Селедочка аппетитная",
+          "imgsrc": "https://www.okeydostavka.ru/wcsstore/OKMarketCAS/cat_entries/855999/855999_fullimage.jpg"
+        },
+
+        {
+          "name": "Селедочка аппетитная",
+          "imgsrc": "https://www.okeydostavka.ru/wcsstore/OKMarketCAS/cat_entries/855999/855999_fullimage.jpg"
+        },
+
+        {
+          "name": "Селедочка аппетитная",
+          "imgsrc": "https://www.okeydostavka.ru/wcsstore/OKMarketCAS/cat_entries/855999/855999_fullimage.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Бакалея",
+      "imgsrc": "tasty.png",
+      "items": [
+        {
+          "name": "Lay's с сыром",
+          "imgsrc": "https://td-aurora.ru/wa-data/public/shop/products/61/57/5761/images/7189/7189.750x0.png"
+        },
+        {
+          "name": "Lay's с сыром",
+          "imgsrc": "https://td-aurora.ru/wa-data/public/shop/products/61/57/5761/images/7189/7189.750x0.png"
+        },
+        {
+          "name": "Lay's с сыром",
+          "imgsrc": "https://td-aurora.ru/wa-data/public/shop/products/61/57/5761/images/7189/7189.750x0.png"
+        },
+        {
+          "name": "Lay's с сыром",
+          "imgsrc": "https://td-aurora.ru/wa-data/public/shop/products/61/57/5761/images/7189/7189.750x0.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Кондитерские изделия",
+      "imgsrc": "sweet.png",
+      "items": [
+        {
+          "name": "Булочка с маком",
+          "imgsrc": "https://static.tildacdn.com/tild3833-6630-4138-b135-376363376664/_.jpg"
+        },
+        {
+          "name": "Булочка с джемом",
+          "imgsrc": "http://vanil.kz/assets/images/bulochki/Bulochki-%282%29.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Фрукты и овощи",
+      "imgsrc": "healthy.png",
+      "items": [
+        {
+          "name": "Апельсины",
+          "imgsrc": "https://pro-dachnikov.com/uploads/posts/2021-11/1638043669_5-pro-dachnikov-com-p-apelsin-foto-5.jpg"
+        },
+        {
+          "name": "Капуста",
+          "imgsrc": "https://oldfarmer.ru/wp-content/uploads/2019/12/belokochannaya-kapusta.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Товары для дома",
+      "imgsrc": "home.png",
+      "items": [
+        {
+          "name": "Fairy - нежные руки",
+          "imgsrc": "https://cdn1.ozone.ru/s3/multimedia-q/6491882966.jpg"
+        },
+        {
+          "name": "Fairy - нежные руки",
+          "imgsrc": "https://cdn1.ozone.ru/s3/multimedia-q/6491882966.jpg"
+        },
+        {
+          "name": "Fairy - нежные руки",
+          "imgsrc": "https://cdn1.ozone.ru/s3/multimedia-q/6491882966.jpg"
+        },
+        {
+          "name": "Fairy - нежные руки",
+          "imgsrc": "https://cdn1.ozone.ru/s3/multimedia-q/6491882966.jpg"
+        }
+      ]
+    }
   ]
 }
