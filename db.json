@@ -13,7 +13,7 @@
    {
      "id": 1,
      "companyId": 1,
-     "votesNumbers": [
+     "products": [
       {
         "categoryId": 3,
         "itemId": 1,
